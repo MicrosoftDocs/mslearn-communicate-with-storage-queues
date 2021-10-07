@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "StorageQueueApp": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "STORAGE_CONNECTION_STRING": "DefaultEndpointsProtocol=https;EndpointSuffix=core.windows.net;AccountName=stlearnstoragequeue;AccountKey=NtOKgqpuG4N8TS73oR08wSD9/uENZmv5AZXDYHuo1jI8QALr8WwWJUdK/aSHDsRA5fYY0qNWbp4NBsbK+P7Wmw=="
+      }
+    }
+  }
+}
